@@ -1,0 +1,39 @@
+{
+  "name": "Insan Qurani",
+  "short_name": "Insan Qurani",
+  "scope": "https://www.pptqinsanqurani.com/",
+  "start_url": "https://www.pptqinsanqurani.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#edf1f2",
+  "description": "Website Resmi Pondok Pesantren Tahfidzul Qur’an (PPTQ) Insan Qur’ani",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiyTUmCMSoh25Ebn5JBZvX7nCnuuehpWopjBkF03oDZJ-qae9p9Cw1YWcSO7oq27JTuOpmggPHWwfY7n7gkBm0gzdOGeHStti2TMUcg3VP4ET1go8MNh4f6tXpWgObAee6gBedgzgIqX5wEcVHrH08U6CFQYw0Xj6vUVPv8XuzgNS5I4frrw2GwGvkxTQ=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
